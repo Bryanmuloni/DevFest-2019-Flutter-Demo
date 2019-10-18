@@ -1,6 +1,5 @@
-# dev_fest_2019_demo
-
-A new Flutter application.
+# DevFest-2019-Flutter-Demo
+A Demo application about the Flutter talk at DevFest2019 GDGMbale demonstrating Flutter architecture of Widget composition.
 
 ## Getting Started
 
